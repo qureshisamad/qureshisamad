@@ -1,14 +1,14 @@
   ### Hello World!  <img src="https://github.com/qureshisamad/qureshisamad/blob/master/assets/Hi.gif" width="29px">
-  ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=qureshisamad&label=Profile%20Visits&color=blue&style=for-the-badge)
   
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+<img src="https://github.com/qureshisamad/qureshisamad/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+
   
   - 🔭 I’m currently a Graduate Research student in ML at Georgia Tech.
   - 🌱 I’m currently learning Machine Learning and Big Data
   - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
   - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
+  - ⚡ Fun fact: 
   
   #### 📫 How to reach me:
   
