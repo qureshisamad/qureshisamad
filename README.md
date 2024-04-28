@@ -1,7 +1,7 @@
-  ### Hello World!  <img src="https://github.com/qureshisamad/qureshisamad/blob/master/assets/Hi.gif" width="29px">
+  ### Hello World!  <img src="https://github.com/qureshisamad/qureshisamad/blob/main/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=qureshisamad&label=Profile%20Visits&color=blue&style=for-the-badge)
   
-<img src="https://github.com/qureshisamad/qureshisamad/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<img src="https://github.com/qureshisamad/qureshisamad/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
   
   - 🔭 I’m currently a Graduate Research student in ML at Georgia Tech.
