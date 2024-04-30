@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/qureshisamad/qureshisamad/main/assets/Cover1.png "Header")
+![Header](https://raw.githubusercontent.com/qureshisamad/qureshisamad/main/assets/Cover2.png "Header")
 
   ### Hello World!  <img src="https://github.com/qureshisamad/qureshisamad/blob/main/assets/Hi.gif" width="29px">
   ![Profile View Counter](https://komarev.com/ghpvc/?username=qureshisamad)
