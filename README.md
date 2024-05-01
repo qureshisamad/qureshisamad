@@ -5,8 +5,6 @@
 #### A Full-Stack Developer by day ☼ and a Cinephile by night ☾
 
 <img src="https://github.com/qureshisamad/qureshisamad/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="250" height="auto" />
-
-
 - ⚙️ I use daily: `.python`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **JS, Python & AI Community**
 - 💬 `ping` me about **design**, **branding**, **AI**, **development**, **design thinking**
