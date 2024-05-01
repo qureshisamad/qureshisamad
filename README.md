@@ -4,7 +4,7 @@
   
 #### A Full-Stack Developer by day ☼ and a Cinephile by night ☾
 
-<img src="https://github.com/qureshisamad/qureshisamad/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<img src="https://github.com/qureshisamad/qureshisamad/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="250" height="auto" />
 
 
 - ⚙️ I use daily: `.python`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
