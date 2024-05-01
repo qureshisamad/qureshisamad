@@ -1,5 +1,6 @@
 ![Header](https://raw.githubusercontent.com/qureshisamad/qureshisamad/main/assets/Cover2.png "Header")
 
+
 <img src="https://github.com/qureshisamad/qureshisamad/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="250" height="auto" />
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=qureshisamad)
