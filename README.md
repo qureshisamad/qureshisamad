@@ -2,33 +2,18 @@
 
   ### Hello World!  <img src="https://github.com/qureshisamad/qureshisamad/blob/main/assets/Hi.gif" width="29px"> ![Profile View Counter](https://komarev.com/ghpvc/?username=qureshisamad)
   
-#### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
+#### A Full-Stack Developer by day ☼ and a Cinephile by night ☾
 
----
 
-### A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-
-<!--ENDS_HERE_QUOTE_README-->
-</a>
-
----
-
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- ⚙️ I use daily: `.python`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **JS, Python & AI Community**
+- 💬 `ping` me about **design**, **branding**, **AI**, **development**, **design thinking**
+- 🌐 Visit my [portfolio website](https://qureshisamad.github.io/) for more information and to get in touch.
 
   
 <img src="https://github.com/qureshisamad/qureshisamad/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-  
-  - 🔭 I’m currently a Graduate Research student in ML at Georgia Tech.
-  - 🌱 I’m currently learning Machine Learning and Big Data
-  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
-  - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: 
+
   
   #### 📫 How to reach me:
   
@@ -50,12 +35,6 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
   
-
-I am a software engineer at [Elucidata](https://elucidata.io/), where I specialize in solving complex biomedical data problems using cutting-edge technology and tools.
-
-- 🌐 Visit my [portfolio website](https://qureshisamad.github.io/) for more information and to get in touch.
-- ✍️ Follow me on [Medium](https://pr2tik1.medium.com/) for more written content.
-
 ---
 
 <p align="center">
