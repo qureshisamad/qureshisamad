@@ -1,8 +1,7 @@
 ![Header](https://raw.githubusercontent.com/qureshisamad/qureshisamad/main/assets/Cover2.png "Header")
 
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 ![Profile View Counter](https://komarev.com/ghpvc/?username=qureshisamad)
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
   
 #### A Full-Stack Developer by day ☼ and a Cinephile by night ☾
 <img src="https://github.com/qureshisamad/qureshisamad/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="250" height="auto" />
