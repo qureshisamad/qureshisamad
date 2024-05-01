@@ -4,8 +4,16 @@
   
 #### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
 
+---
+
+### A Famous Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
+
 <!--ENDS_HERE_QUOTE_README-->
+</a>
+
+---
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **Laravel Community**
