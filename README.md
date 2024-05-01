@@ -1,10 +1,12 @@
 ![Header](https://raw.githubusercontent.com/qureshisamad/qureshisamad/main/assets/Cover2.png "Header")
 
+<img src="https://github.com/qureshisamad/qureshisamad/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="250" height="auto" />
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=qureshisamad)
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
   
 #### A Full-Stack Developer by day ☼ and a Cinephile by night ☾
-<img src="https://github.com/qureshisamad/qureshisamad/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="250" height="auto" />
+
 
 - ⚙️ I use daily: `.python`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **JS, Python & AI Community**
